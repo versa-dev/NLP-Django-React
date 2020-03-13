@@ -1,0 +1,142 @@
+.topmenu{
+    background-color: gray !important;
+}
+
+li>a{
+    margin: 0 !important;
+    text-decoration: none !important;
+    color: rgb(59, 52, 52) !important;
+    width: 95% !important;
+    display: block !important;
+}
+
+a::after{
+    float: right !important;
+    margin-top: 10px !important;
+    margin-right:5px !important;
+}
+
+.sidebar{
+    width: 250px ;
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+    background-color: white !important;
+}
+
+#sidebar{
+    height: 900px !important;
+}
+
+.catButton{
+    width: 100%;
+    outline: none;
+}
+.subButton{
+    width:80%;
+    outline: none;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+}
+
+.wrapper{
+    background-color: rgb(235, 235, 244);
+    height: 900px ;
+}
+
+.sub_li{
+    height: 50px;
+    padding-left: 20px;
+    padding-top:10px;
+}
+
+.sub_li:hover{
+    background-color: rgb(235, 235, 244) ;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px;
+}
+
+.subul>li{
+    height: 50px ;
+    padding-left: 20px;
+    padding-top:10px;
+    margin-left: 40px;
+}
+
+li{
+    margin-left: 20px;
+}
+.subul>li:hover{
+    color: #7386D5;
+    background-color:  rgb(235, 235, 244);
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px;
+}
+
+.txtinput{
+    width: 90% ;
+    margin-left: 5%; 
+    height: 300px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20 10 20 10 !important;
+}
+
+.wrapperform{
+    width: 90% ;
+    margin-left: 5%; 
+    height: 250px;
+    background-color: white;
+}
+
+.bodybar{
+    width: 100% !important;
+    padding: 0px !important;
+}
+
+.form-control{
+    height: 150px !important;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5px !important;
+}
+
+.cusbtn{
+    background-color: rgb(10,10,10);
+    height : 40px ;
+    width: fit-content;
+    margin-top : 10px !important; 
+    border-radius: 5px !important;
+    outline: none !important;
+    color: white !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.emimage{
+    width: 140px;
+    float: right !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+    margin-right: 50px !important;
+}
+
+.imground{
+    height: 70px ;
+    background-color: rgb(200, 200, 200) !important;
+}
+
+.bodymargin{
+    height: 70px ;
+    background-color: white !important;
+    padding: 20px 100px 20px 150px !important;
+}
+
+.cattitle{
+    margin-top: 0px !important;
+    
+}
