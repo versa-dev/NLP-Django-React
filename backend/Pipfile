@@ -9,7 +9,7 @@ verify_ssl = true
 virtualenv = "*"
 astroid = "==2.2.5"
 autopep8 = "==1.4.4"
-certifi = "==2019.6.16"
+certifi = "==2022.12.7"
 chardet = "==3.0.4"
 defusedxml = "==0.6.0"
 django-allauth = "==0.39.1"
